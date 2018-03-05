@@ -1,0 +1,14 @@
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\bin\Debug\euroDollarConversion.exe.config
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\bin\Debug\euroDollarConversion.exe
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\bin\Debug\euroDollarConversion.pdb
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.csprojResolveAssemblyReference.cache
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.csproj.CoreCompileInputs.cache
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.exe
+C:\Users\Denman\Documents\Education\MSSA\Developing\Mentor questions\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.pdb
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\bin\Debug\euroDollarConversion.exe.config
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\bin\Debug\euroDollarConversion.exe
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\bin\Debug\euroDollarConversion.pdb
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.csprojResolveAssemblyReference.cache
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.csproj.CoreCompileInputs.cache
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.exe
+C:\Users\Denman\Documents\Education\MSSA\simple apps\euroDollarConversion\euroDollarConversion\obj\Debug\euroDollarConversion.pdb
